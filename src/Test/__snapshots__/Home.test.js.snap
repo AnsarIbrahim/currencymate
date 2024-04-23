@@ -1,0 +1,530 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home component matches snapshot for CurrencyDisplay component 1`] = `
+<DocumentFragment>
+  <div
+    class="flex justify-center items-center"
+  >
+    <span
+      css="You have tried to stringify object returned from \`css\` function. It isn't supposed to be used directly (e.g. as value of the \`className\` prop), but rather handed to emotion so it can handle it (e.g. as value of \`css\` prop)."
+      style="display: inherit; position: relative; width: 60px; height: 60px;"
+    >
+      <span
+        style="position: absolute; height: 60px; width: 60px; background-color: rgb(18, 58, 188); border-radius: 100%; opacity: 0.6; top: 0px; left: 0px; animation-fill-mode: both; animation: react-spinners-BounceLoader-bounce 2.1s 1s infinite ease-in-out;"
+      />
+      <span
+        style="position: absolute; height: 60px; width: 60px; background-color: rgb(18, 58, 188); border-radius: 100%; opacity: 0.6; top: 0px; left: 0px; animation-fill-mode: both; animation: react-spinners-BounceLoader-bounce 2.1s 0s infinite ease-in-out;"
+      />
+    </span>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Home component matches snapshot for Home component 1`] = `
+<DocumentFragment>
+  <div
+    class="min-h-screen bg-gradient-to-r from-blue-500 to-blue-100 flex flex-col items-center justify-center space-y-10 p-5"
+  >
+    <h1
+      class="text-xl font-bold text-white font-poppins md:text-4xl"
+    >
+      Currency
+      <span
+        class="md:text-xl text-blue-600 text-2xl"
+      >
+        Mate
+      </span>
+    </h1>
+    <div
+      class="w-[80%]"
+    >
+      <div
+        class="sc-guDLey lcyjPN"
+      >
+        <div
+          class="sc-dmyCSP AApyK"
+          direction="rtl"
+          style="animation-duration: 0s;"
+        >
+          <div
+            class="sc-beySPh bWwetx"
+            position="relative"
+            style="left: 0px; top: 0px;"
+          >
+            <div
+              class="mx-2"
+              style="white-space: nowrap;"
+            >
+              <span
+                class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+              >
+                USD:
+              </span>
+              <span
+                class="text-xs font-bold font-space-grotesk text-red-500"
+              >
+                1.00
+              </span>
+            </div>
+          </div>
+          <div
+            class="sc-beySPh bWwetx"
+            position="relative"
+            style="left: 0px; top: 0px;"
+          >
+            <div
+              class="mx-2"
+              style="white-space: nowrap;"
+            >
+              <span
+                class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+              >
+                EUR:
+              </span>
+              <span
+                class="text-xs font-bold font-space-grotesk text-red-500"
+              >
+                0.85
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-dmyCSP AApyK"
+          direction="rtl"
+          style="animation-duration: 0s;"
+        >
+          <div
+            class="sc-beySPh bWwetx"
+            position="relative"
+            style="left: 0px; top: 0px;"
+          >
+            <div
+              class="mx-2"
+              style="white-space: nowrap;"
+            >
+              <span
+                class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+              >
+                USD:
+              </span>
+              <span
+                class="text-xs font-bold font-space-grotesk text-red-500"
+              >
+                1.00
+              </span>
+            </div>
+          </div>
+          <div
+            class="sc-beySPh bWwetx"
+            position="relative"
+            style="left: 0px; top: 0px;"
+          >
+            <div
+              class="mx-2"
+              style="white-space: nowrap;"
+            >
+              <span
+                class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+              >
+                EUR:
+              </span>
+              <span
+                class="text-xs font-bold font-space-grotesk text-red-500"
+              >
+                0.85
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-dmyCSP AApyK"
+          direction="rtl"
+          style="animation-duration: 0s;"
+        >
+          <div
+            class="sc-beySPh bWwetx"
+            position="relative"
+            style="left: 0px; top: 0px;"
+          >
+            <div
+              class="mx-2"
+              style="white-space: nowrap;"
+            >
+              <span
+                class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+              >
+                USD:
+              </span>
+              <span
+                class="text-xs font-bold font-space-grotesk text-red-500"
+              >
+                1.00
+              </span>
+            </div>
+          </div>
+          <div
+            class="sc-beySPh bWwetx"
+            position="relative"
+            style="left: 0px; top: 0px;"
+          >
+            <div
+              class="mx-2"
+              style="white-space: nowrap;"
+            >
+              <span
+                class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+              >
+                EUR:
+              </span>
+              <span
+                class="text-xs font-bold font-space-grotesk text-red-500"
+              >
+                0.85
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <p
+      class="text-white text-xs md:text-sm bg-blue-900 bg-opacity-50 rounded-xl p-2"
+    >
+      Last updated: 
+      <span
+        class="text-yellow-300"
+      >
+        23/04/2024, 21:53:55
+      </span>
+    </p>
+    <div
+      class="w-[80%]"
+    >
+      <div
+        class="sc-guDLey lcyjPN"
+      >
+        <div
+          class="sc-dmyCSP hKjfKh"
+          direction="ltr"
+          style="animation-duration: 0s;"
+        >
+          <div
+            class="sc-beySPh bWwetx"
+            position="relative"
+            style="left: 0px; top: 0px;"
+          >
+            <div
+              class="mx-2"
+              style="white-space: nowrap;"
+            >
+              <span
+                class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+              >
+                USD:
+              </span>
+              <span
+                class="text-xs font-bold font-space-grotesk text-red-500"
+              >
+                1.00
+              </span>
+            </div>
+          </div>
+          <div
+            class="sc-beySPh bWwetx"
+            position="relative"
+            style="left: 0px; top: 0px;"
+          >
+            <div
+              class="mx-2"
+              style="white-space: nowrap;"
+            >
+              <span
+                class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+              >
+                EUR:
+              </span>
+              <span
+                class="text-xs font-bold font-space-grotesk text-red-500"
+              >
+                0.85
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-dmyCSP hKjfKh"
+          direction="ltr"
+          style="animation-duration: 0s;"
+        >
+          <div
+            class="sc-beySPh bWwetx"
+            position="relative"
+            style="left: 0px; top: 0px;"
+          >
+            <div
+              class="mx-2"
+              style="white-space: nowrap;"
+            >
+              <span
+                class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+              >
+                USD:
+              </span>
+              <span
+                class="text-xs font-bold font-space-grotesk text-red-500"
+              >
+                1.00
+              </span>
+            </div>
+          </div>
+          <div
+            class="sc-beySPh bWwetx"
+            position="relative"
+            style="left: 0px; top: 0px;"
+          >
+            <div
+              class="mx-2"
+              style="white-space: nowrap;"
+            >
+              <span
+                class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+              >
+                EUR:
+              </span>
+              <span
+                class="text-xs font-bold font-space-grotesk text-red-500"
+              >
+                0.85
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-dmyCSP hKjfKh"
+          direction="ltr"
+          style="animation-duration: 0s;"
+        >
+          <div
+            class="sc-beySPh bWwetx"
+            position="relative"
+            style="left: 0px; top: 0px;"
+          >
+            <div
+              class="mx-2"
+              style="white-space: nowrap;"
+            >
+              <span
+                class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+              >
+                USD:
+              </span>
+              <span
+                class="text-xs font-bold font-space-grotesk text-red-500"
+              >
+                1.00
+              </span>
+            </div>
+          </div>
+          <div
+            class="sc-beySPh bWwetx"
+            position="relative"
+            style="left: 0px; top: 0px;"
+          >
+            <div
+              class="mx-2"
+              style="white-space: nowrap;"
+            >
+              <span
+                class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+              >
+                EUR:
+              </span>
+              <span
+                class="text-xs font-bold font-space-grotesk text-red-500"
+              >
+                0.85
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="bg-slate-300 shadow-lg rounded-lg p-5 w-full max-w-md pb-10"
+    >
+      <div
+        class="flex justify-center items-center"
+      >
+        <span
+          css="You have tried to stringify object returned from \`css\` function. It isn't supposed to be used directly (e.g. as value of the \`className\` prop), but rather handed to emotion so it can handle it (e.g. as value of \`css\` prop)."
+          style="display: inherit; position: relative; width: 60px; height: 60px;"
+        >
+          <span
+            style="position: absolute; height: 60px; width: 60px; background-color: rgb(18, 58, 188); border-radius: 100%; opacity: 0.6; top: 0px; left: 0px; animation-fill-mode: both; animation: react-spinners-BounceLoader-bounce 2.1s 1s infinite ease-in-out;"
+          />
+          <span
+            style="position: absolute; height: 60px; width: 60px; background-color: rgb(18, 58, 188); border-radius: 100%; opacity: 0.6; top: 0px; left: 0px; animation-fill-mode: both; animation: react-spinners-BounceLoader-bounce 2.1s 0s infinite ease-in-out;"
+          />
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Home component matches snapshot for ScrollingPrices component 1`] = `
+<DocumentFragment>
+  <div
+    class="w-[80%]"
+  >
+    <div
+      class="sc-guDLey lcyjPN"
+    >
+      <div
+        class="sc-dmyCSP AApyK"
+        direction="rtl"
+        style="animation-duration: 0s;"
+      >
+        <div
+          class="sc-beySPh bWwetx"
+          position="relative"
+          style="left: 0px; top: 0px;"
+        >
+          <div
+            class="mx-2"
+            style="white-space: nowrap;"
+          >
+            <span
+              class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+            >
+              USD:
+            </span>
+            <span
+              class="text-xs font-bold font-space-grotesk text-red-500"
+            >
+              1.00
+            </span>
+          </div>
+        </div>
+        <div
+          class="sc-beySPh bWwetx"
+          position="relative"
+          style="left: 0px; top: 0px;"
+        >
+          <div
+            class="mx-2"
+            style="white-space: nowrap;"
+          >
+            <span
+              class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+            >
+              EUR:
+            </span>
+            <span
+              class="text-xs font-bold font-space-grotesk text-red-500"
+            >
+              0.85
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-dmyCSP AApyK"
+        direction="rtl"
+        style="animation-duration: 0s;"
+      >
+        <div
+          class="sc-beySPh bWwetx"
+          position="relative"
+          style="left: 0px; top: 0px;"
+        >
+          <div
+            class="mx-2"
+            style="white-space: nowrap;"
+          >
+            <span
+              class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+            >
+              USD:
+            </span>
+            <span
+              class="text-xs font-bold font-space-grotesk text-red-500"
+            >
+              1.00
+            </span>
+          </div>
+        </div>
+        <div
+          class="sc-beySPh bWwetx"
+          position="relative"
+          style="left: 0px; top: 0px;"
+        >
+          <div
+            class="mx-2"
+            style="white-space: nowrap;"
+          >
+            <span
+              class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+            >
+              EUR:
+            </span>
+            <span
+              class="text-xs font-bold font-space-grotesk text-red-500"
+            >
+              0.85
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-dmyCSP AApyK"
+        direction="rtl"
+        style="animation-duration: 0s;"
+      >
+        <div
+          class="sc-beySPh bWwetx"
+          position="relative"
+          style="left: 0px; top: 0px;"
+        >
+          <div
+            class="mx-2"
+            style="white-space: nowrap;"
+          >
+            <span
+              class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+            >
+              USD:
+            </span>
+            <span
+              class="text-xs font-bold font-space-grotesk text-red-500"
+            >
+              1.00
+            </span>
+          </div>
+        </div>
+        <div
+          class="sc-beySPh bWwetx"
+          position="relative"
+          style="left: 0px; top: 0px;"
+        >
+          <div
+            class="mx-2"
+            style="white-space: nowrap;"
+          >
+            <span
+              class="text-xs font-bold font-space-grotesk text-green-700 mx-1"
+            >
+              EUR:
+            </span>
+            <span
+              class="text-xs font-bold font-space-grotesk text-red-500"
+            >
+              0.85
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
