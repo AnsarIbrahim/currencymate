@@ -1,7 +1,3 @@
-# currencymate
-
-CurrencyMate simplifies currency conversions, allowing you to effortlessly convert between different currencies in real-time. With a user-friendly interface and up-to-date exchange rates, stay on top of your international transactions wherever you go.
-
 <a name="readme-top"></a>
 
 <div align="center">
@@ -9,7 +5,7 @@ CurrencyMate simplifies currency conversions, allowing you to effortlessly conve
   <img src="src/assests/ansarlogo.png" alt="logo" width="140"  height="auto" style="border-radius: 10px;"/>
   <br/>
 
-  <h3><b>TechGear</b></h3>
+  <h3><b>CurrencyMate</b></h3>
 
 </div>
 
@@ -39,9 +35,9 @@ CurrencyMate simplifies currency conversions, allowing you to effortlessly conve
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 TechGear <a name="about-project"></a>
+# 📖 CurrencyMate <a name="about-project"></a>
 
-**TechGear** Explore innovative gadgets &amp; electronics. Shop now for the latest tech trends. Your destination for cutting-edge technology. 🚀.
+**CurrencyMate** simplifies currency conversions, allowing you to effortlessly convert between different currencies in real-time. With a user-friendly interface and up-to-date exchange rates, stay on top of your international transactions wherever you go.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -62,9 +58,9 @@ CurrencyMate simplifies currency conversions, allowing you to effortlessly conve
 
 ### Key Features <a name="key-features"></a>
 
-- **Innovative Gadgets & Electronics Exploration**
-- **Latest Tech Trends Shopping**
-- **Cutting-Edge Technology Destination**
+- **Real-time Currency Conversion**
+- **User-friendly Interface**
+- **Up-to-date Exchange Rates**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +68,7 @@ CurrencyMate simplifies currency conversions, allowing you to effortlessly conve
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://techgeargadget.netlify.app/)
+- [Live Demo Link](https://currencymates.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,7 +91,7 @@ Modren Browser
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:AnsarIbrahim/techgear.git
+  git clone git@github.com:AnsarIbrahim/currencymate.git
 ```
 
 ### Install
@@ -103,7 +99,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd techgear
+  cd currencymate
   npm install or npm i
 ```
 
@@ -135,13 +131,13 @@ You can deploy this project using:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 👤 **Ansar Ibrahim**
 
-- GitHub: [Ansar Ibrahim](https://github.com/AnsarIbrahim)
-- Twitter: [Ansar Ibrahim](https://twitter.com/ansaradheeb)
-- LinkedIn: [Ansar Ibrahim](https://linkedin.com/in/ansar-ibrahim/)
+- [GitHub](https://github.com/AnsarIbrahim)
+- [Twitter](https://twitter.com/ansaradheeb)
+- [LinkedIn](https://linkedin.com/in/ansar-ibrahim/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,14 +145,10 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **AI Product Recommendation**
-- [ ] **Virtual Reality (VR) Product Showcase**
-- [ ] **Product Comparison Tool**
-- [ ] **User Reviews and Ratings**
-- [ ] **Tech Blog**
-- [ ] **Wishlist**
-- [ ] **Advanced Search Filters**
-- [ ] **Loyalty Program**
+- [ ] **Currency Trends Visualization**
+- [ ] **Favorite Currencies**
+- [ ] **Offline Mode**
+- [ ] **Currency Alerts**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,6 +175,7 @@ Feel free to check the [issues page](../../issues/).
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - I would like to thank the following
+- ExchangeRate-API
 - Techno Hacks EduTech
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
